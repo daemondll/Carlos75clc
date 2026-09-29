@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Carlos75clc
-- 👀 I’m interested in code, cyber and cars.
-- 🌱 I’m currently learning in ESILV.
-- 💞️ I’m coding a bot for telegram and a C2.
-- ⚡ Fun fact: water can wet x)
+- Hi, I’m @Carlos75clc
+- I’m interested in code, cyber and cars.
+- I’m currently learning in ESILV.
+- I’m coding a bot for telegram and a C2.
+- Fun fact: water can wet x)
